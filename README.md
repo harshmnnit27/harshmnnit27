@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Harsh Chaurasiya</h1>
+<h3 align="center">3rd Year B.Tech (CSE) | MNNIT Allahabad | MERN Stack Developer | AI Enthusiast</h3>
 
-<!--
-**harshmnnit27/harshmnnit27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kickout9937&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* 🎓 3rd Year **B.Tech in Computer Science & Engineering** from **MNNIT Allahabad**
+* 💻 Primary coding language: **C++** (DSA & Competitive Programming)
+* 🌐 Full Stack Developer with **MERN Stack** experience
+* 🤖 Basic knowledge of **Artificial Intelligence & Machine Learning**
+* 🚀 Passionate about building **real-world, problem-solving projects**
+* 🌱 Continuously learning backend scalability & system design
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kickout9937&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kickout9937&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kickout9937&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+* 🔹 **Granthamitra** – A digital platform focused on structured content and knowledge access
+* 🔹 **QuizGno** – MERN-based Quiz Platform with Admin & User Dashboards
+* 🔹 **Sentiment Analysis App** – News-based company sentiment analysis system
+* 🔹 **React Admin Panel** – CRUD-based admin dashboard with API integration
+
+> 📌 Pin these repositories on your GitHub profile for maximum impact.
+
+
+
+
+
+
+⭐ *Focused on strong fundamentals, clean code, and impactful software solutions.*
