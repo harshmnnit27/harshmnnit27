@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Chaurasiya</h1>
-<h3 align="center">3rd Year B.Tech (CSE) | MNNIT Allahabad | MERN Stack Developer | AI Enthusiast</h3>
+<h3 align="center">Final Year B.Tech (CSE) | MNNIT Allahabad | MERN Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kickout9937&label=Profile%20views&color=0e75b6&style=flat" />
