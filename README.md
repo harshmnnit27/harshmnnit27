@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-* 🎓 3rd Year **B.Tech in Computer Science & Engineering** from **MNNIT Allahabad**
+* 🎓 Final Year **B.Tech in Computer Science & Engineering** from **MNNIT Allahabad**
 * 💻 Primary coding language: **C++** (DSA & Competitive Programming)
 * 🌐 Full Stack Developer with **MERN Stack** experience
 * 🤖 Basic knowledge of **Artificial Intelligence & Machine Learning**
